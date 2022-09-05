@@ -1,0 +1,13 @@
+************Advanced concepts**************
+keyword tpoics:-
+Return and yield keywors
+Lambda keyword
+
+Input/output:-
+python input methods for competitive programming
+Vulnerability in input()function-pytho 2.v
+
+Datatypes:-
+strings:
+Escaping sequence in python Formatting of a string
+
